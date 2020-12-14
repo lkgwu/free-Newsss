@@ -1,0 +1,26 @@
+{
+  "name": "Free prensa",
+  "version": "0.2.3",
+  "manifest_version": 2,
+  "description": "maybe funciona hasta que prensa haga algo Creditos a Yuval original en su github",
+  "homepage_url": "https://github.com/yuvadm/free-haaretz",
+  "background": {
+    "scripts": ["free_haaretz.js"],
+    "persistent": true
+  },
+  "content_scripts": [{
+    "matches": [
+      "*://*.corprensa.com/*",
+      "*://*.evolok.net/*"
+    ],
+    "css": ["free_haaretz.css"]
+  }],
+  "permissions": [
+    "contentSettings",
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.corprensa.com/",
+    "*://*.prensa.com/",
+    "*://*.evolok.net/"
+  ]
+}
