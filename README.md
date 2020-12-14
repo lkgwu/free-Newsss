@@ -16,7 +16,7 @@ Installation has to be done manually. I'm not interested in distributing this ex
  
  3. Click **Allow** and then **Install** to install the extension.
 
-### Chrome / Chromium
+### Chrome / Para ti 
 
  1. Download the [extension ZIP file](https://github.com/lkgwu/free-Newsss/archive/master.zip)
 
