@@ -1,6 +1,6 @@
-# Free Haaretz
+# Free LaPrensa
 
-A nefarious browser extension that easily bypasses the Haaretz paywall.
+A nefarious browser extension that easily bypasses the LaPrensa paywall.
 
 If things aren't working as expected, make sure to reinstall (update) the extension from time to time, to make sure you have the latest code.
 
@@ -10,7 +10,7 @@ Installation has to be done manually. I'm not interested in distributing this ex
 
 ### Firefox
 
- 1. Download the [add-on XPI file](https://github.com/yuvadm/free-haaretz/releases/download/v0.9.7/free-haaretz.xpi)
+ 1. Download the [add-on XPI file](https://github.com/lkgwu/free-Newsss)
 
  2. Firefox should automatically identify the XPI file and request permission to install it.
  
@@ -18,7 +18,7 @@ Installation has to be done manually. I'm not interested in distributing this ex
 
 ### Chrome / Chromium
 
- 1. Download the [extension ZIP file](https://github.com/yuvadm/free-haaretz/releases/download/v0.9.7/free-haaretz.zip)
+ 1. Download the [extension ZIP file](https://github.com/lkgwu/free-Newsss.zip)
 
  2. Unzip the file.
 
@@ -30,7 +30,7 @@ Installation has to be done manually. I'm not interested in distributing this ex
 
  6. Navigate to the folder you unziped your code to, and select it.
 
- 7. The **FreeHaaretz** extension should now be loaded.
+ 7. The **FreePrensa** extension should now be loaded.
 
 ## Troubleshooting
 
