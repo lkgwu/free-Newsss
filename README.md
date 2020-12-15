@@ -8,15 +8,8 @@ If things aren't working as expected, make sure to reinstall (update) the extens
 
 Installation has to be done manually. I'm not interested in distributing this extension in the Mozilla / Google addon 'stores'.
 
-### Firefox
 
- 1. Download the [add-on XPI file](https://github.com/lkgwu/free-Newsss)
-
- 2. Firefox should automatically identify the XPI file and request permission to install it.
- 
- 3. Click **Allow** and then **Install** to install the extension.
-
-### Chrome / Para ti 
+### Chrome 
 
  1. Download the [extension ZIP file](https://github.com/lkgwu/free-Newsss/archive/master.zip)
 
